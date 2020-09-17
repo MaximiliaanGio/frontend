@@ -6,7 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. DLO Opdracht Flex 2
 2. -bron 2-
 3. -...-
 
@@ -60,7 +60,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** responsive 
 
-**Je opdracht:** https://www.starwars.com
+**Je opdracht:** https://www.ajaxshop.nl/nl
 
 **Screenshot(s):**
 
@@ -68,6 +68,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screen2.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screen3.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screen4.png)
-**Breakdown-schets(en):**
+**Breakdown-schets(en):** "MOETEN NOG VERANDERD WORDEN"
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdown1.png)
