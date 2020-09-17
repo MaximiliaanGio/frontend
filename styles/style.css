@@ -1,6 +1,5 @@
-
 body {
-  margin:0;
+    margin: 0;
 }
 
 
@@ -9,15 +8,13 @@ body {
 /************************/
 
 header {
-  background-color: #c20030; 
-  
-  /* jouw code hier */
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
-  top:-3.5em;
-  z-index:10;
- 
+    background-color: #c20030;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    top: -3.5em;
+    z-index: 10;
+
 }
 
 
@@ -26,74 +23,108 @@ header {
 /*************/
 
 header nav {
-  font-family: 'Roboto', sans-serif;
-  
-  /* jouw code hier */
-  flex-grow:1;
+    font-family: 'Roboto', sans-serif;
+    flex-grow: 1;
 }
 
-header nav ul {    
-  margin:0; padding-left: 10em; padding-right: 10em;
-  list-style:none;
-  
-  /* jouw code hier */
-  display:flex;
+header nav ul {
+    margin: 0;
+    padding-left: 10em;
+    padding-right: 10em;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 header nav li {
-  /* jouw code hier */
-  min-width:6em;
-  flex-grow:1;
+    min-width: 6em;
+    flex-grow: 1;
 }
 
 header nav a {
-  color:white;
-  background-color:#c20030; 
-  text-decoration:none;
-  outline:none;
-  
-  /* jouw code hier */
-  display:block;
-  line-height:3.5em;
-  text-align:center;
+    color: white;
+    background-color: #c20030;
+    text-decoration: none;
+    outline: none;
+    display: block;
+    line-height: 3.5em;
+    text-align: center;
 }
 
+
 /*************/
-/* navigatie */
+/* navigatie 2 */
 /*************/
 
-main nav {
-  background-color:rgba(0,0,0,.1);
-  
-  /* jouw code hier */
-  flex-grow:1;
-}
 
-main nav ul {    
-  margin:0; padding-left: 10em; padding-right: 10em;
-  list-style:none;
-  
-  /* jouw code hier */
-  display:flex;
+main nav ul {
+    margin: 0;
+    padding-left: 10em;
+    padding-right: 10em;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 main nav li {
-  /* jouw code hier */
-  min-width:6em;
-  flex-grow:1;
+    min-width: 6em;
 }
 
 main nav a {
     font-family: 'Roboto', sans-serif;
-  color:black;
-  text-decoration:none;
-  outline:none;
-  
-  /* jouw code hier */
-  display:block;
-  line-height:3.5em;
-  text-align:center;
+    color: black;
+    text-decoration: none;
+    outline: none;
+    display: block;
+    line-height: 3.5em;
+    text-align: center;
 }
+
+li a img {
+    width: 300px;
+    float: left
+}
+
+/*************/
+/* Slider */
+/*************/
+
+#slider img{
+    position: relative;
+    height: 500px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+@media only screen and (max-width: 1100px) {
+
+        
+}
+
+
+@media only screen and (max-width: 600px) {
+    #slider img{
+      width: 800px;
+      
+    }   
+}
+
+/*************/
+/* Merch */
+/*************/
+#shop1 ul {
+  list-style: none;
+  display:flex;
+  justify-content: center;
+}
+
+
+
+
+
+
 
 
 
