@@ -38,7 +38,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Menu responsive. Mobile first is nog wat op aan te merken.
 
 **Screenshot(s):**
 
