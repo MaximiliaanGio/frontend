@@ -90,11 +90,6 @@ main nav a {
         display: none;
     }
 
-    #shop1mobile {
-        display: none;
-
-    }
-
     .banneronder {
         display: none;
     }
@@ -150,29 +145,17 @@ main nav a {
         margin-left: auto;
         margin-right: auto;
     }
+    
+    .container p {
+    display: none;
+}
 
-    #shop2 img {
-        display: none;
-    }
 
     #webnav {
         display: none;
     }
-
-    #shop1 {
-        display: none;
-    }
-
-    .shopklein img {
-        display: none;
-    }
-
     .banneronder img {
         width: 90vw
-    }
-
-    .button {
-        display: none;
     }
     .sponsorsweb img{
         display: none;
@@ -181,7 +164,74 @@ main nav a {
         display: none;
     }
 }
+/*shop banner*/
 
+.container {
+    position: relative;
+}
+.container img{
+     width: 100vw
+}
+
+.container p {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    color: white;
+    font-size: 30px;
+    font-family: "roboto", sans-serif;
+    background-color: black; 
+    padding: 20px 50px
+}
+/*galerij*/
+.galerij {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1em;
+}
+.galerij article img{
+    width: 50vw;
+}
+.galerij h3{
+    font-family: "roboto", sans-serif;
+    color: black;
+}
+
+/* Kleding onder elkaar bij kleiner scherm */
+@media only screen and (max-width: 600px) {
+    .galerij {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 1em;
+    }
+}
+
+.galerij article img {
+    width: 25vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .galerij article img {
+        width: 60vw;
+    }
+}
+
+.galerij a {
+    color: red;
+    text-decoration: none;
+    font-family: "roboto", sans-serif;
+}
+
+
+.galerij h3:hover {
+    color: grey;
+}
+
+.galerij p:hover {
+    color: grey;
+}
+
+/*footer*/
 footer {
     background-color: black;
     color: white;
@@ -203,66 +253,6 @@ footer h3 {
 footer p {
     font-size: 16px;
     text-align: center;
-}
-
-/*************/
-/* Merch */
-/*************/
-main img {
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#shop1 img {
-    width: 70vw;
-}
-
-#shop2 {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
-
-#shop2 img {
-    width: 30vw;
-}
-
-.shopklein {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 1em;
-}
-
-.shopklein img {
-    width: 20vw;
-}
-.shopklein a{
-    font-family: 'Roboto', sans-serif;
-}
-
-.banneronder img {
-    width: 90vw
-}
-
-
-
-.container {
-    position: relative;
-}
-
-.container .button {
-    position: absolute;
-    top: 80%;
-    left: 42%;
-}
-
-.button {
-    text-decoration: none;
-    color: white;
-    background-color: limegreen;
-    padding: 12px;
-    border-radius: 5px;
 }
 
 .button2 {

@@ -4,7 +4,7 @@
   <head>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,300&display=swap" rel="stylesheet">
     <meta charset="UTF-8">
-    <meta name="author" content="jouw naam">
+    <meta name="author" content="Max Jasperse">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>AjaxShop.nl</title>
@@ -14,16 +14,19 @@
 
 <body>
     <header>
+       <section class="menuklein">
+        <a href="#"><img class="logo" src="images/logo.png" alt="logo"></a>
+        <a href="#" id="menuknop"><img class="menuknop" src="images/hamburger.png" alt="hamburgermenu"></a>
+</section>
 
         <!-- navigatie -->
         <nav>
-            <ul>
-                <li><a href="Ajax.nl"><img src="images/logo.png" alt="logo"></a></li>
+            <ul class="menuitems" id="dropdownmenu">
                 <li><a href="Ajax.nl">Ajax.nl</a></li>
                 <li><a href="#">Mijn account</a></li>
                 <li><a href="#">Wishlist</a></li>
                 <li><a href="#">Winkelwagen</a></li>
-                <li><a href="#">Nederland</a></li>
+                <li><a href="#">Nederlands</a></li>
 
             </ul>
         </nav>
@@ -34,7 +37,28 @@
 
     <main>
         <!-- navigatie -->
-        <nav>
+        <nav id="webnav">
+            <ul>
+                <li><a href="#">Wedstrijd</a></li>
+                <li><a href="#">Nieuw</a></li>
+                <li><a href="#">Training</a></li>
+                <li><a href="kleding.html">Kleding</a></li>
+                <li><a href="#">Cadeaus</a></li>
+                <li><a href="#">Voor thuis</a></li>
+                <li><a href="#">Fan items</a></li>
+                <li><a href="#">Baby</a></li>
+                <li><a href="#">Ontwerp</a></li>
+                <li><a href="#">Sale %</a></li>
+            </ul>
+        </nav>
+        <section id="shop1mobile">
+            <a href="#"></a><img src="images/antony.png" alt="Ajax Jerseys">
+        </section>
+        <section id="shop1">
+            <a href="#"></a><img src="images/ajaxjersey.png" alt="Ajax Jerseys">
+        </section>
+        <!-- navigatie mobile -->
+        <nav id="mobilenav">
             <ul>
                 <li><a href="#">Wedstrijd</a></li>
                 <li><a href="#">Nieuw</a></li>
@@ -48,24 +72,105 @@
                 <li><a href="#">Sale %</a></li>
             </ul>
         </nav>
-        <section id="slider">
-            <img src="images/ajaxjersey.png" alt="Ajax Jerseys">
+        <section id="shop2">
+            <a href="#"><img src="images/davy.png" alt="davy"></a>
+            <a href="#"><img src="images/antony.png" alt="davy"></a>
         </section>
-        <section id="shop1">
-            <ul>
-                <li><a href="#"><img src="images/merch1.png" alt="merch"></a></li>
-                <li><a href="#"><img src="images/merch1.png" alt="merch"></a></li>
 
-
-            </ul>
-            <ul>
-                <li><a href="#"><img src="images/merch1.png" alt="merch"></a></li>
-                <li><a href="#"><img src="images/merch1.png" alt="merch"></a></li>
-
-
-            </ul>
+        <section class="shopklein">
+            <article class="container"><img src="images/thuisshirt.png" alt="shop">
+                <a class="button" href="#">Shop hier</a>
+            </article>
+            <article class="container"><img src="images/junior.png" alt="shop">
+                <a class="button" href="#">Shop hier</a>
+            </article>
+            <article class="container"><img src="images/sweater.png" alt="shop">
+                <a class="button" href="#">Shop hier</a>
+            </article>
+        </section>
+        <section class="banneronder">
+            <img src="images/readysport.png" alt="readyforsporten">
         </section>
     </main>
+    <Footer>
+        <img src="images/footer.jpg" alt="ajaxteam">
+        <h2>Niets meer missen</h2>
+        <p>Blijf op te hoogte van het laatste nieuws.</p>
+        <a class="button2" href="#">Blijf op de hoogte</a>
+        <section class="sponsorsmobiel">
+            <img src="images/ziggo.svg" alt="">
+            <img src="images/adidas.svg" alt="">
+            <img src="images/abnamro.svg" alt="">
+            <img src="images/cst.svg" alt="">
+            <img src="images/curacao.svg" alt="">
+            <img src="images/bud.svg" alt="">
+            <img src="images/vriendenloterij.svg" alt="">
+        </section>
+        <section class="sponsorsweb">
+           <article>
+            <ul>
+                <li>
+                    <h3>Klantenservice</h3>
+                </li>
+                <li><a href="#">Klantenservice</a></li>
+                <li><a href="#">Ajax Gift Card</a></li>
+                <li><a href="#">Levering</a></li>
+                <li><a href="#">Ruilen Retouren</a></li>
+                <li><a href="#">Veelgestelde vragen</a></li>
+                <li><a href="#">Nieuwsbrief</a></li>
+            </ul>
+        </article>
+           <article>
+            <ul>
+                <li>
+                    <h3>Categorie</h3>
+                </li>
+                <li><a href="#">Wedstrijd</a></li>
+                <li><a href="#">Nieuw</a></li>
+                <li><a href="#">Training</a></li>
+                <li><a href="#">Kleding</a></li>
+                <li><a href="#">Cadeaus</a></li>
+                <li><a href="#">Voor thuis</a></li>
+                <li><a href="#">Fan items</a></li>
+                <li><a href="#">Baby</a></li>
+            </ul>
+        </article>
+           <article>
+            <ul>
+                <li>
+                    <h3>Ajax Fanshop ArenA</h3>
+                </li>
+                <li><a href="#">Johan Cruijff Boulevard 1-3</a></li>
+                <li><a href="#">1101 AX Amsterdam Zuidoost</a></li>
+                <li><a href="#">Openingstijden</a></li>
+                
+            </ul>
+        </article>
+           <article>
+            <ul>
+                <li>
+                    <h3>Ajax Fanshop Bataviastad </h3>
+                </li>
+                <li><a href="#">Bataviaplein 335</a></li>
+                <li><a href="#">8242 PN Lelystad</a></li>
+                <li><a href="#">Openingstijden</a></li>
+            </ul>
+        </article>
+          
+            <img src="images/ziggo.svg" alt="">
+            <img src="images/adidas.svg" alt="">
+            <img src="images/abnamro.svg" alt="">
+            <img src="images/cst.svg" alt="">
+            <img src="images/curacao.svg" alt="">
+            <img src="images/bud.svg" alt="">
+            <img src="images/vriendenloterij.svg" alt="">
+        </section>
+        <section class="copyright">
+            <p>Privacy Terms | Cookie Instellingen</p>
+            <p>2020 - AFC Ajax NV</p>
+            <p>Beoordeling door klanten 8.2/10 - 18933 Beoordelingen</p>
+        </section>
+    </Footer>
 
     <script src="scripts/script.js"></script>
 </body></html>
