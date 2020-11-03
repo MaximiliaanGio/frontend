@@ -65,9 +65,9 @@ Ik had nog niet bepaald een idee welke site ik ging maken. Uiteindelijk heb ik b
 **Je opdracht:** https://www.ajaxshop.nl/nl
 
 **Screenshot(s):**
-![Screen1](images/screenshot1.png)
-![Screen2](images/screenshot2.png)
-![Screen3](images/screenshot3.png)
+![Screen1](images/screen1.png)
+![Screen2](images/screen2.png)
+![Screen3](images/screen3.png)
 
 **Breakdown-schets(en):** 
 ![breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdownschets2.png)
