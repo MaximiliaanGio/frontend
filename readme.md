@@ -7,12 +7,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. DLO Opdracht Flex 2
-2. -bron 2-
-3. -...-
+2. Dlo Opdracht Grid
+3. https://css-tricks.com
 
 
 
-## Eindgesprek (week 7/8)
+## Eindgesprek Her (week 9/10)
 
 -dit ging goed & dit was lastig-
 
@@ -22,15 +22,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
-## Voortgang 3 (week 6)
+## Voortgang 3 (week 6) 7/8 Eindgesprek
 
--same as voortgang 1-
+Ik heb het niet optijd afgekregen. Ik wilde mij eerst afmelden maar de docent vroeg mij alsnog te komen om te kijken wat ik wel had. Dit bleek al erg nuttig te zijn. Ik was toch. iets verder dan ik dacht. Ik was namelijk weer veel te moeilijk aan het denken. Ik wilde te ingewikkelde code neerzetten terwijl dit "maar" een 2e jaars vak is. Dit gaf me al wat meer rust in ging ik met een beter gevoel verder.
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Ik had niet veel kunnen werken aan de site door het drukke blok. Ik had veel deadlines om te maken. Ik had naast mijn header 1 banner toegevoegd. Ik had aan de docent assistenten gevraagd hoe ik het best de banner kon doen. Aangezien dat meer een slideshow was. Ik kreeg daar beetje een dubbel antwoord op. Het ging van opzoeken op youtube naar moet je dit wel maken. Uiteindelijk veel opgezochten maar was te moeilijk en wilde ook niet alles kopieren van andere sites.
 
 
 
@@ -38,7 +38,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-Menu responsive. Mobile first is nog wat op aan te merken.
+Menu responsive. Mobile first is nog wat op aan te merken. Ik had dit niet goed begrepen. Ik was meteen bezig met web om die responsive te maken. Meteen na voortgangsgesprek bezig geweest met mobile first werken.
 
 **Screenshot(s):**
 
@@ -46,11 +46,11 @@ Menu responsive. Mobile first is nog wat op aan te merken.
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+n.v.t dit hebben wij als inhaal klas niet gedaan.
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ik had nog niet bepaald een idee welke site ik ging maken. Uiteindelijk heb ik besloten paar dagen na sleutelen aan Star Wars site te gaan werken aan de jax Fanshop site, dit omdat daar meer variatie in conctent te vinden was. Dit zal wat beter zijn om na te maken aangezien ik dan bezig ben metverschillende elementen.
 
 
 
@@ -63,8 +63,10 @@ Menu responsive. Mobile first is nog wat op aan te merken.
 **Je opdracht:** https://www.ajaxshop.nl/nl
 
 **Screenshot(s):**
-
+(images/screenshot1.png)
+(images/screenshot2.png)
+(images/screenshot3.png)
 
 **Breakdown-schets(en):** "MOETEN NOG VERANDERD WORDEN"
-
+![breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdownschets2.png)
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdown1.png)
