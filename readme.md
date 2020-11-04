@@ -14,7 +14,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek Her (week 9/10)
 
--dit ging goed & dit was lastig-
+Ik vond het moeilijk om in te schatten welke content ik moest maken en hoe ik dat moest namaken. 
 
 **Screenshot(s):**
 
@@ -65,11 +65,13 @@ Ik had nog niet bepaald een idee welke site ik ging maken. Uiteindelijk heb ik b
 **Je opdracht:** https://www.ajaxshop.nl/nl
 
 **Screenshot(s):**
+Ik weet nog niet of ik Star Wars of Ajax Fanshop ga doen.
 ![Screen1](images/screen1.png)
 ![Screen2](images/screen2.png)
 ![Screen3](images/screen3.png)
 
 **Breakdown-schets(en):** 
+Ik weet nog niet of ik Star Wars of Ajax Fanshop ga doen, bij deze 2 breakdownschetsenvan beide sites.
 ![breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdownschets2.png)
 
 Ik weet nog niet of ik Star Wars of Ajax Fanshop ga doen, bij deze 2 breakdownschetsenvan beide sites.
