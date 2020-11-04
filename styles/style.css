@@ -84,7 +84,9 @@ main nav a {
 }
 
 
-
+/************************/
+/* Media Query Ander lay out */
+/************************/
 @media only screen and (min-width: 900px) {
     #mobilenav {
         display: none;
@@ -182,32 +184,10 @@ main nav a {
     }
 }
 
-footer {
-    background-color: black;
-    color: white;
-}
 
-footer img {
-    width: 50%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-footer h3 {
-    font-size: 16px;
-    text-align: center;
-}
-
-footer p {
-    font-size: 16px;
-    text-align: center;
-}
-
-/*************/
-/* Merch */
-/*************/
+/****************/
+/* Merch Content*/
+/****************/
 main img {
     height: auto;
     display: block;
@@ -245,7 +225,9 @@ main img {
     width: 90vw
 }
 
-
+/***********/
+/* Buttons */
+/***********/
 
 .container {
     position: relative;
@@ -276,6 +258,32 @@ main img {
     display: flex;
     justify-content: center;
     border-radius: 5px;
+}
+
+/************************/
+/* Footer               */
+/************************/
+footer {
+    background-color: black;
+    color: white;
+}
+
+footer img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer h3 {
+    font-size: 16px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 16px;
+    text-align: center;
 }
 
 .sponsorsmobiel img {
